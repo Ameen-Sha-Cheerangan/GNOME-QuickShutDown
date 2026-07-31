@@ -1,0 +1,8 @@
+{
+  "name": "Shutdown Button",
+  "description": "Adds a quick shutdown button to the top panel. One click opens the native GNOME Power Off dialog. Designed for power users who want fewer clicks.",
+  "uuid": "shutdown-button@ameen-sha",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/Ameen-Sha-Cheerangan/GNOME-QuickShutDown",
+  "settings-schema": "org.gnome.shell.extensions.shutdown-button"
+}

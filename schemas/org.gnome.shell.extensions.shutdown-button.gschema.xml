@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.shutdown-button" path="/org/gnome/shell/extensions/shutdown-button/">
+    <key name="position" type="s">
+      <default>'right'</default>
+      <summary>Position of the button</summary>
+      <description>Whether the button should be on the 'left' or 'right' of the top panel.</description>
+    </key>
+  </schema>
+</schemalist>
