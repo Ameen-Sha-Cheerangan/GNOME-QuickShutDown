@@ -1,7 +1,7 @@
 # GNOME-QuickShutDown
-[![Available on GNOME Extensions](https://img.shields.io/badge/GNOME%20Extensions-Available-brightgreen?logo=gnome)](https://extensions.gnome.org/extension/[EXTENSION_ID]/shutdown-button/)
+[![Available on GNOME Extensions](https://img.shields.io/badge/GNOME%20Extensions-Available-brightgreen?logo=gnome)](https://extensions.gnome.org/extension/10595/shutdown-button-with-timer/)
 
-> 📦 **Officially published on [extensions.gnome.org](https://extensions.gnome.org/extension/[EXTENSION_ID]/shutdown-button/)!**
+> 📦 **Officially published on [extensions.gnome.org](https://extensions.gnome.org/extension/10595/shutdown-button-with-timer/)!**
 >
 > For the easiest installation and updates, use the official GNOME Extensions website.
 
