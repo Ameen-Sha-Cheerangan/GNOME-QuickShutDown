@@ -7,7 +7,7 @@
 
 Adds a quick shutdown button to the GNOME top panel. One click opens the native GNOME Power Off dialog. Designed for power users who want fewer clicks.
 
-![Extension in Panel](images/image.png)
+![Extension in Panel](images/icononpanel.png)
 
 > **Note:**  
 > This extension triggers the native GNOME shutdown dialogue box safely. It does not bypass unsaved work warnings or active session safeguards.
